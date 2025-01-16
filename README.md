@@ -46,19 +46,19 @@ epochs = 300
 
 The loss over epochs shows how the model's loss decreases as training progresses. This indicates that the model is learning to reconstruct the input images more accurately over time.
 
-![Loss Over Epochs](path/to/loss_graph.png)
+![loss](https://github.com/user-attachments/assets/75b85b89-55e6-4524-8a1c-527038bd651c)
 
 ### Accuracy Over Epochs
 
 The accuracy over epochs shows how the model's accuracy improves as training progresses. This indicates that the model is becoming better at reconstructing the input images.
 
-![Accuracy Over Epochs](path/to/accuracy_graph.png)
+![accuracy](https://github.com/user-attachments/assets/e04cc88a-2d16-46b3-9ebc-e812a5db8d30)
 
 ### Output
 
 The output section shows examples of the original, encoded, and reconstructed images. This demonstrates the effectiveness of the autoencoder in compressing and reconstructing the input images.
 
-![Output](path/to/output_images.png)
+![output](https://github.com/user-attachments/assets/fbad69a4-5d22-460b-9d32-45c81022dfbd)
 
 ## Installation
 
